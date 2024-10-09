@@ -19,6 +19,12 @@ const Usestatebyflatlist = () => {
       renderItem={({item , index })=>(
         <View>
             <Text>{item.body}</Text>
+            <Text>{item.body}</Text>
+            <Text>{item.body}</Text>
+            <Text>{item.body}</Text>
+            <Text>{item.body}</Text>
+            <Text>{item.body}</Text>
+
         </View>
       )}
       />
